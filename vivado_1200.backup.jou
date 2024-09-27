@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Feb  9 18:49:35 2021
+# Process ID: 1200
+# Current directory: C:/Users/Maede/Desktop/FPGA_Final_project_Ghassab_Alizadeh/section2_fpga_final_ptoject/average_edge_filter
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5468 C:\Users\Maede\Desktop\FPGA_Final_project_Ghassab_Alizadeh\section2_fpga_final_ptoject\average_edge_filter\average_edge_filter.xpr
+# Log file: C:/Users/Maede/Desktop/FPGA_Final_project_Ghassab_Alizadeh/section2_fpga_final_ptoject/average_edge_filter/vivado.log
+# Journal file: C:/Users/Maede/Desktop/FPGA_Final_project_Ghassab_Alizadeh/section2_fpga_final_ptoject/average_edge_filter\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Maede/Desktop/FPGA_Final_project_Ghassab_Alizadeh/section2_fpga_final_ptoject/average_edge_filter/average_edge_filter.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config C:/Users/Maede/Desktop/FPGA_Final_project_Ghassab_Alizadeh/section2_fpga_final_ptoject/average_edge_filter/average_tb_behav.wcfg
+source average_tb.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/Maede/Desktop/FPGA_Final_project_Ghassab_Alizadeh/section2_fpga_final_ptoject/average_edge_filter/average_tb_behav.wcfg
+source average_tb.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/Maede/Desktop/FPGA_Final_project_Ghassab_Alizadeh/section2_fpga_final_ptoject/average_edge_filter/average_tb_behav.wcfg
+source average_tb.tcl
+close_sim

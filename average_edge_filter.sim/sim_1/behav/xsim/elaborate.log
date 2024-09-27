@@ -1,0 +1,16 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2019.1/bin/unwrapped/win64.o/xelab.exe -wto 223456fa4ee24502b0ffd40e92bf9819 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot average_tb_behav xil_defaultlib.average_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-3813] value in initialization depends on signal 'in_ram' [C:/Users/Maede/Desktop/FPGA_Final_project_Ghassab_Alizadeh/section2_fpga_final_ptoject/average_edge_filter/average_edge_filter.srcs/sources_1/new/edge.vhd:29]
+WARNING: [VRFC 10-3813] value in initialization depends on signal 'in_ram' [C:/Users/Maede/Desktop/FPGA_Final_project_Ghassab_Alizadeh/section2_fpga_final_ptoject/average_edge_filter/average_edge_filter.srcs/sources_1/new/edge.vhd:30]
+WARNING: [VRFC 10-3813] value in initialization depends on signal 'in_ram' [C:/Users/Maede/Desktop/FPGA_Final_project_Ghassab_Alizadeh/section2_fpga_final_ptoject/average_edge_filter/average_edge_filter.srcs/sources_1/new/edge.vhd:31]
+WARNING: [VRFC 10-3813] value in initialization depends on signal 'in_ram' [C:/Users/Maede/Desktop/FPGA_Final_project_Ghassab_Alizadeh/section2_fpga_final_ptoject/average_edge_filter/average_edge_filter.srcs/sources_1/new/edge.vhd:32]
+WARNING: [VRFC 10-3813] value in initialization depends on signal 'in_ram' [C:/Users/Maede/Desktop/FPGA_Final_project_Ghassab_Alizadeh/section2_fpga_final_ptoject/average_edge_filter/average_edge_filter.srcs/sources_1/new/edge.vhd:33]
+WARNING: [VRFC 10-3813] value in initialization depends on signal 'in_ram' [C:/Users/Maede/Desktop/FPGA_Final_project_Ghassab_Alizadeh/section2_fpga_final_ptoject/average_edge_filter/average_edge_filter.srcs/sources_1/new/edge.vhd:34]
+WARNING: [VRFC 10-3813] value in initialization depends on signal 'in_ram' [C:/Users/Maede/Desktop/FPGA_Final_project_Ghassab_Alizadeh/section2_fpga_final_ptoject/average_edge_filter/average_edge_filter.srcs/sources_1/new/edge.vhd:35]
+WARNING: [VRFC 10-3813] value in initialization depends on signal 'in_ram' [C:/Users/Maede/Desktop/FPGA_Final_project_Ghassab_Alizadeh/section2_fpga_final_ptoject/average_edge_filter/average_edge_filter.srcs/sources_1/new/edge.vhd:36]
+WARNING: [VRFC 10-3813] value in initialization depends on signal 'in_ram' [C:/Users/Maede/Desktop/FPGA_Final_project_Ghassab_Alizadeh/section2_fpga_final_ptoject/average_edge_filter/average_edge_filter.srcs/sources_1/new/edge.vhd:37]
+Completed static elaboration
+INFO: [XSIM 43-4323] No Change in HDL. Linking previously generated obj files to create kernel
